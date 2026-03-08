@@ -112,6 +112,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="800">
 
-*"AI thinks once → broadcasts to ALL traders. One brain, unlimited profit."* 🧠⚡
+*"Powered by mass☕ caffeine and mass📉 drawdown. Still holding. Still coding."* 🏴‍☠️
 
 </div>
