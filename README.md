@@ -100,27 +100,6 @@
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/ohfxtrader">
-<img src="https://github-readme-stats.vercel.app/api?username=ohfxtrader&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" height="170" />
-</a>
-<a href="https://github.com/ohfxtrader">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohfxtrader&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9" alt="Top Languages" height="170" />
-</a>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ohfxtrader&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" />
-
-</div>
-
-<br>
-
 ### 🤝 Connect & Support
 
 <div align="center">
