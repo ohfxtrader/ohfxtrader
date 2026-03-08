@@ -50,45 +50,45 @@
 
 **Languages & Core**
 
-<p>
-<img src="https://iconic-api.onrender.com/icon?name=python&theme=dark" alt="Python" title="Python" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=js&theme=dark" alt="JavaScript" title="JavaScript" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=cpp&theme=dark" alt="C++ / MQL5" title="C++ / MQL5" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=typescript&theme=dark" alt="TypeScript" title="TypeScript" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=bash&theme=dark" alt="Bash" title="Bash" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=git&theme=dark" alt="Git" title="Git" width="50" height="50" />&nbsp;
-</p>
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/python" alt="Python" width="64" />
+<img src="https://iconic-api.onrender.com/dark/js" alt="JavaScript" width="64" />
+<img src="https://iconic-api.onrender.com/dark/cpp" alt="C++ / MQL5" width="64" />
+<img src="https://iconic-api.onrender.com/dark/typescript" alt="TypeScript" width="64" />
+<img src="https://iconic-api.onrender.com/dark/bash" alt="Bash" width="64" />
+<img src="https://iconic-api.onrender.com/dark/git" alt="Git" width="64" />
+</div>
 
 **Backend & Database**
 
-<p>
-<img src="https://iconic-api.onrender.com/icon?name=fastapi&theme=dark" alt="FastAPI" title="FastAPI" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=nodejs&theme=dark" alt="NodeJS" title="NodeJS" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=flask&theme=dark" alt="Flask" title="Flask" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=postgresql&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=mysql&theme=dark" alt="MySQL" title="MySQL" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=websocket&theme=dark" alt="WebSocket" title="WebSocket" width="50" height="50" />&nbsp;
-</p>
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/fastapi" alt="FastAPI" width="64" />
+<img src="https://iconic-api.onrender.com/dark/nodejs" alt="NodeJS" width="64" />
+<img src="https://iconic-api.onrender.com/dark/flask" alt="Flask" width="64" />
+<img src="https://iconic-api.onrender.com/dark/postgresql" alt="PostgreSQL" width="64" />
+<img src="https://iconic-api.onrender.com/dark/mysql" alt="MySQL" width="64" />
+<img src="https://iconic-api.onrender.com/dark/websocket" alt="WebSocket" width="64" />
+</div>
 
 **Frontend & Tools**
 
-<p>
-<img src="https://iconic-api.onrender.com/icon?name=react&theme=dark" alt="React" title="React" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=tailwind&theme=dark" alt="TailwindCSS" title="TailwindCSS" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=html&theme=dark" alt="HTML5" title="HTML5" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=css&theme=dark" alt="CSS3" title="CSS3" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=vscode&theme=dark" alt="VS Code" title="VS Code" width="50" height="50" />&nbsp;
-</p>
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/react" alt="React" width="64" />
+<img src="https://iconic-api.onrender.com/dark/tailwind" alt="TailwindCSS" width="64" />
+<img src="https://iconic-api.onrender.com/dark/html" alt="HTML5" width="64" />
+<img src="https://iconic-api.onrender.com/dark/css" alt="CSS3" width="64" />
+<img src="https://iconic-api.onrender.com/dark/vscode" alt="VS Code" width="64" />
+</div>
 
 **DevOps & Infra**
 
-<p>
-<img src="https://iconic-api.onrender.com/icon?name=docker&theme=dark" alt="Docker" title="Docker" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=ubuntu&theme=dark" alt="Ubuntu" title="Ubuntu" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=linux&theme=dark" alt="Linux" title="Linux" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=github&theme=dark" alt="GitHub" title="GitHub" width="50" height="50" />&nbsp;
-<img src="https://iconic-api.onrender.com/icon?name=github-actions&theme=dark" alt="GitHub Actions" title="GitHub Actions" width="50" height="50" />&nbsp;
-</p>
+<div style="display: flex; gap: 2px; align-items: center;">
+<img src="https://iconic-api.onrender.com/dark/docker" alt="Docker" width="64" />
+<img src="https://iconic-api.onrender.com/dark/ubuntu" alt="Ubuntu" width="64" />
+<img src="https://iconic-api.onrender.com/dark/linux" alt="Linux" width="64" />
+<img src="https://iconic-api.onrender.com/dark/github" alt="GitHub" width="64" />
+<img src="https://iconic-api.onrender.com/dark/github-actions" alt="GitHub Actions" width="64" />
+</div>
 
 </div>
 
