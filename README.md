@@ -2,7 +2,7 @@
 
 ![Header](./github-header-banner.png)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/216656952-f8beff5b-935b-4157-a199-5c504b36a810.gif" width="250">
 
 </div>
 
