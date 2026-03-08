@@ -23,7 +23,6 @@
 - 🚀 Currently building **[Ambside AI Brain](https://github.com/ohfxtrader/ambside-ai-brain)** — Multi-Agent AI Trading System
 - 🧠 Learning **Multi-Agent AI Systems & LLM Orchestration**
 - 🤝 Open to collaborating on **AI Trading Systems, MQL5 Expert Advisors, OpenClaw Agents**
-- ⚡ Fun fact: My AI team has 3 agents — **ที่รัก ✨**, **นามิ 🍊**, and **โทนี่ 🩺** — they code, review, and deploy while I sleep 🏴‍☠️
 
 <br>
 
